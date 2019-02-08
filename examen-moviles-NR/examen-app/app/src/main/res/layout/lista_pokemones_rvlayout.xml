@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="120dp" android:id="@+id/relative_layout_pokemones">
+    <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <TextView
+                android:text="TextView"
+                android:layout_width="92dp"
+                android:layout_height="35dp" android:id="@+id/textView_nombrePokemon" android:layout_weight="1"
+                android:layout_marginTop="56dp"
+                app:layout_constraintTop_toTopOf="parent" android:layout_marginStart="32dp"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintVertical_bias="0.0"/>
+        <TextView
+                android:text="TextView"
+                android:layout_width="107dp"
+                android:layout_height="37dp" android:id="@+id/textView_poderEspecialUno" android:layout_weight="1"
+                android:layout_marginBottom="8dp"
+                app:layout_constraintBottom_toBottomOf="@+id/textView_nombrePokemon"
+                app:layout_constraintStart_toEndOf="@+id/textView_nombrePokemon" android:layout_marginStart="32dp"
+                app:layout_constraintTop_toTopOf="@+id/textView_nombrePokemon"
+                app:layout_constraintVertical_bias="0.0"/>
+        <Button
+                android:text="&#8942;"
+                android:textAppearance="?android:textAppearanceLarge"
+                android:layout_width="36dp"
+                android:layout_height="46dp"
+                android:id="@+id/button_opcionesP"
+                app:layout_constraintBottom_toBottomOf="@+id/textView_poderEspecialUno"
+                app:layout_constraintTop_toTopOf="@+id/textView_poderEspecialUno"
+                app:layout_constraintStart_toEndOf="@+id/textView_poderEspecialUno" android:layout_marginStart="32dp"
+                app:layout_constraintVertical_bias="1.0" android:background="@color/colorPrimary"/>
+    </android.support.constraint.ConstraintLayout>
+</RelativeLayout>

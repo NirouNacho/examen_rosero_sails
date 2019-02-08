@@ -1,0 +1,4 @@
+#Fri Feb 08 12:26:54 COT 2019
+base.0=C\:\\Users\\NiRoU\\Documents\\GitHub\\examen-moviles-NR\\examen-app\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

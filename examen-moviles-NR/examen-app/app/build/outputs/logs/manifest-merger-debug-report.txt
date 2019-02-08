@@ -1,0 +1,527 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\7ec0a560ecbdc46e8056da4d4a273607\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8833675e40f009943699244d32bcac9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e8c831e16fbce891df33f4b837a6ef7e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-ml-vision:18.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-18.0.2.aar\1ddefd0816a5b8a6fb88bc6666eeb41c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.7.aar\1dba5a075666bf64d4b6186efe8b9764\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-16.0.0.aar\9e0e0adb3ec77732f820ad81133d61a0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\37e17f7cf260d00eabd77326169fb143\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-17.0.2.aar\6e1b5eba0c0ab1e91c65e6702deb0c0d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\2a1a75d6bcb08648e58af6e89612d5f7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:16.1.6] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-16.1.6.aar\69c25f19217b6389363fb4fcd61f74dc\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\ec052f30764c096e4839c9d48cc32c10\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\e285b29cc56ec06a9ea273e63e825161\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\f386cc0c5ec42dab21112e3b8348dab4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.3.0.aar\8ea0d7eac604bd281c8f4335bc15feae\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\20fe77f59529c0d49a8e650775eef74a\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\96e65e5284e6b19972d077b1021c63c1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\f21d7ad0bd800fc5e62026469b56d15b\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\78e925c5c836c011c1b335bbcfe4f1aa\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\80e7c43df11d755bb0c0a22222fb6853\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\e1e41b6a801cc8475240e832525e7e85\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\11ad5d5098d216d99374b9e4ab409196\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\439133aa7412fb329b10b881ddf103cb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\16c6d998f0b63f94ee5281a3d746c2c5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\bfe66fea1bedf36696122e2d5c147f3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4db060226f6ff54df769ed3f5bbe38c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.13.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\fuel-android-1.13.0.aar\05b2ea2adc108995532fd78264869ae9\AndroidManifest.xml:2:1-10:12
+MERGED from [com.tapadoo.android:alerter:2.0.6] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\alerter-2.0.6.aar\a8d8f5b085325cedebd699d87d37baee\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2924e97fbfb4505444290b6961b169cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e87ef2b58c1355aebca2ab38576ba974\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de22c84c0a0ba25a788e83f68b654343\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\21416992aa2ad7a8d3b00c6f969ffe85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7be506dd0470b04c32cc31de0c82f8aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\6e2e8c40a562908403c3cb5e7e39da6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\af99aa775c64ccc99a5acf5296b2f4ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\711b20d9f6640312d30dfee648012bdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\60a45b45055eab771d10068b28c020eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\da769897bf3967660a0b2f3ccfdf00e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9881eaef069c041208ba2124da20bca6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d72c6b24d14069fbe1e967e4f9651e16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\36323e6e78da4dfc9750343bdb5f1720\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c313a9d149f2a79ba81af828e800a1a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d23c09867e76389482d13f643a881557\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\14693d27cd09237f1621e474f1bc0949\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bd6051892a8293d9e129acf3956004fe\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\853c409cba2e3c094ce17e8312279a55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a00e22a8460b9f710192700119dc42d7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a9e08c00aba87c4f8716b8ec2f5f47b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\57f56ee65932ecf56c336d74732d79c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cceff8373b326adf7911b75afa28daf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\200cc1129a6fd2c7c11635a368714aa6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\44fa1e73e2a8df988a1a6791d434a478\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\fe0bc6805415004dcafed021781d8733\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\32c85d90bef2e3e8322de52daddc912e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\15968eb40cc64d168da249014b5286da\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5cf16111d3d7cfa10e4bb21edfd10c7d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\c9b83959e0364001c352e35a2ca34fdf\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:3:11-50
+		INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:5:5-7:38
+	android:required
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:7:13-36
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:6:13-53
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:13:5-66
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:16:22-69
+application
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:19:5-63:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\7ec0a560ecbdc46e8056da4d4a273607\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\7ec0a560ecbdc46e8056da4d4a273607\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e8c831e16fbce891df33f4b837a6ef7e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e8c831e16fbce891df33f4b837a6ef7e\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.7.aar\1dba5a075666bf64d4b6186efe8b9764\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.7.aar\1dba5a075666bf64d4b6186efe8b9764\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\37e17f7cf260d00eabd77326169fb143\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\37e17f7cf260d00eabd77326169fb143\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-17.0.2.aar\6e1b5eba0c0ab1e91c65e6702deb0c0d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-17.0.2.aar\6e1b5eba0c0ab1e91c65e6702deb0c0d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\2a1a75d6bcb08648e58af6e89612d5f7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\2a1a75d6bcb08648e58af6e89612d5f7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\ec052f30764c096e4839c9d48cc32c10\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\ec052f30764c096e4839c9d48cc32c10\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\f386cc0c5ec42dab21112e3b8348dab4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\f386cc0c5ec42dab21112e3b8348dab4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.3.0.aar\8ea0d7eac604bd281c8f4335bc15feae\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.3.0.aar\8ea0d7eac604bd281c8f4335bc15feae\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\20fe77f59529c0d49a8e650775eef74a\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\20fe77f59529c0d49a8e650775eef74a\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\96e65e5284e6b19972d077b1021c63c1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\96e65e5284e6b19972d077b1021c63c1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\f21d7ad0bd800fc5e62026469b56d15b\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\f21d7ad0bd800fc5e62026469b56d15b\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\78e925c5c836c011c1b335bbcfe4f1aa\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\78e925c5c836c011c1b335bbcfe4f1aa\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\80e7c43df11d755bb0c0a22222fb6853\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\80e7c43df11d755bb0c0a22222fb6853\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\e1e41b6a801cc8475240e832525e7e85\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\e1e41b6a801cc8475240e832525e7e85\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\11ad5d5098d216d99374b9e4ab409196\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\11ad5d5098d216d99374b9e4ab409196\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\439133aa7412fb329b10b881ddf103cb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\439133aa7412fb329b10b881ddf103cb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\16c6d998f0b63f94ee5281a3d746c2c5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\16c6d998f0b63f94ee5281a3d746c2c5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\14693d27cd09237f1621e474f1bc0949\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\14693d27cd09237f1621e474f1bc0949\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bd6051892a8293d9e129acf3956004fe\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bd6051892a8293d9e129acf3956004fe\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\14693d27cd09237f1621e474f1bc0949\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:24:13-39
+	android:label
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:22:13-45
+	android:roundIcon
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:23:13-58
+	android:icon
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:21:13-47
+	android:allowBackup
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:20:13-39
+	android:theme
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:25:13-44
+	android:usesCleartextTraffic
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:26:13-48
+meta-data#com.google.firebase.ml.vision.DEPENDENCIES
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:28:9-30:42
+	android:value
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:30:17-40
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:29:17-74
+provider#com.example.examenapplication.GenericFileProvider
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:33:9-43:20
+	android:grantUriPermissions
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:37:17-51
+	android:authorities
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:35:17-68
+	android:exported
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:36:17-41
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:34:17-52
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:40:13-42:57
+	android:resource
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:42:21-55
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:41:21-71
+activity#com.example.examenapplication.FormularioPokemonActivity
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:47:9-48:20
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:47:19-60
+activity#com.example.examenapplication.ListarPokemonActivity
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:49:9-50:20
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:49:19-56
+activity#com.example.examenapplication.ListarEntrenadorActivity
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:51:9-52:20
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:51:19-59
+activity#com.example.examenapplication.FormularioEntrenadorActivity
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:54:9-55:20
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:54:19-63
+activity#com.example.examenapplication.MainActivity
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:56:9-62:20
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:56:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:58:17-68
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:60:17-76
+	android:name
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml:60:27-74
+uses-sdk
+INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\7ec0a560ecbdc46e8056da4d4a273607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\7ec0a560ecbdc46e8056da4d4a273607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8833675e40f009943699244d32bcac9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8833675e40f009943699244d32bcac9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e8c831e16fbce891df33f4b837a6ef7e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e8c831e16fbce891df33f4b837a6ef7e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-ml-vision:18.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-18.0.2.aar\1ddefd0816a5b8a6fb88bc6666eeb41c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:18.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-18.0.2.aar\1ddefd0816a5b8a6fb88bc6666eeb41c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.7.aar\1dba5a075666bf64d4b6186efe8b9764\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.7.aar\1dba5a075666bf64d4b6186efe8b9764\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-16.0.0.aar\9e0e0adb3ec77732f820ad81133d61a0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-16.0.0.aar\9e0e0adb3ec77732f820ad81133d61a0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\37e17f7cf260d00eabd77326169fb143\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\37e17f7cf260d00eabd77326169fb143\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-17.0.2.aar\6e1b5eba0c0ab1e91c65e6702deb0c0d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-17.0.2.aar\6e1b5eba0c0ab1e91c65e6702deb0c0d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\2a1a75d6bcb08648e58af6e89612d5f7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\2a1a75d6bcb08648e58af6e89612d5f7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.1.6] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-16.1.6.aar\69c25f19217b6389363fb4fcd61f74dc\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.1.6] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-16.1.6.aar\69c25f19217b6389363fb4fcd61f74dc\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\ec052f30764c096e4839c9d48cc32c10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\ec052f30764c096e4839c9d48cc32c10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\e285b29cc56ec06a9ea273e63e825161\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\e285b29cc56ec06a9ea273e63e825161\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\f386cc0c5ec42dab21112e3b8348dab4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\f386cc0c5ec42dab21112e3b8348dab4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.3.0.aar\8ea0d7eac604bd281c8f4335bc15feae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.3.0.aar\8ea0d7eac604bd281c8f4335bc15feae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\20fe77f59529c0d49a8e650775eef74a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\20fe77f59529c0d49a8e650775eef74a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\96e65e5284e6b19972d077b1021c63c1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\96e65e5284e6b19972d077b1021c63c1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\f21d7ad0bd800fc5e62026469b56d15b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\f21d7ad0bd800fc5e62026469b56d15b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\78e925c5c836c011c1b335bbcfe4f1aa\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\78e925c5c836c011c1b335bbcfe4f1aa\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\80e7c43df11d755bb0c0a22222fb6853\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\80e7c43df11d755bb0c0a22222fb6853\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\e1e41b6a801cc8475240e832525e7e85\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\e1e41b6a801cc8475240e832525e7e85\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\11ad5d5098d216d99374b9e4ab409196\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\11ad5d5098d216d99374b9e4ab409196\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\439133aa7412fb329b10b881ddf103cb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\439133aa7412fb329b10b881ddf103cb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\16c6d998f0b63f94ee5281a3d746c2c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\16c6d998f0b63f94ee5281a3d746c2c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\bfe66fea1bedf36696122e2d5c147f3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\bfe66fea1bedf36696122e2d5c147f3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4db060226f6ff54df769ed3f5bbe38c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4db060226f6ff54df769ed3f5bbe38c0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.13.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\fuel-android-1.13.0.aar\05b2ea2adc108995532fd78264869ae9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.13.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\fuel-android-1.13.0.aar\05b2ea2adc108995532fd78264869ae9\AndroidManifest.xml:6:5-8:41
+MERGED from [com.tapadoo.android:alerter:2.0.6] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\alerter-2.0.6.aar\a8d8f5b085325cedebd699d87d37baee\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tapadoo.android:alerter:2.0.6] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\alerter-2.0.6.aar\a8d8f5b085325cedebd699d87d37baee\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2924e97fbfb4505444290b6961b169cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2924e97fbfb4505444290b6961b169cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e87ef2b58c1355aebca2ab38576ba974\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e87ef2b58c1355aebca2ab38576ba974\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de22c84c0a0ba25a788e83f68b654343\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de22c84c0a0ba25a788e83f68b654343\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\21416992aa2ad7a8d3b00c6f969ffe85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\21416992aa2ad7a8d3b00c6f969ffe85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7be506dd0470b04c32cc31de0c82f8aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7be506dd0470b04c32cc31de0c82f8aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\6e2e8c40a562908403c3cb5e7e39da6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\6e2e8c40a562908403c3cb5e7e39da6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\af99aa775c64ccc99a5acf5296b2f4ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\af99aa775c64ccc99a5acf5296b2f4ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\711b20d9f6640312d30dfee648012bdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\711b20d9f6640312d30dfee648012bdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\60a45b45055eab771d10068b28c020eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\60a45b45055eab771d10068b28c020eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\da769897bf3967660a0b2f3ccfdf00e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\da769897bf3967660a0b2f3ccfdf00e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9881eaef069c041208ba2124da20bca6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9881eaef069c041208ba2124da20bca6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d72c6b24d14069fbe1e967e4f9651e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d72c6b24d14069fbe1e967e4f9651e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\36323e6e78da4dfc9750343bdb5f1720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\36323e6e78da4dfc9750343bdb5f1720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c313a9d149f2a79ba81af828e800a1a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c313a9d149f2a79ba81af828e800a1a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d23c09867e76389482d13f643a881557\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d23c09867e76389482d13f643a881557\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\14693d27cd09237f1621e474f1bc0949\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\14693d27cd09237f1621e474f1bc0949\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bd6051892a8293d9e129acf3956004fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\bd6051892a8293d9e129acf3956004fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\853c409cba2e3c094ce17e8312279a55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\853c409cba2e3c094ce17e8312279a55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a00e22a8460b9f710192700119dc42d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a00e22a8460b9f710192700119dc42d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a9e08c00aba87c4f8716b8ec2f5f47b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a9e08c00aba87c4f8716b8ec2f5f47b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\57f56ee65932ecf56c336d74732d79c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\57f56ee65932ecf56c336d74732d79c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cceff8373b326adf7911b75afa28daf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cceff8373b326adf7911b75afa28daf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\200cc1129a6fd2c7c11635a368714aa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\200cc1129a6fd2c7c11635a368714aa6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\44fa1e73e2a8df988a1a6791d434a478\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\44fa1e73e2a8df988a1a6791d434a478\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\fe0bc6805415004dcafed021781d8733\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\fe0bc6805415004dcafed021781d8733\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\32c85d90bef2e3e8322de52daddc912e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\32c85d90bef2e3e8322de52daddc912e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\15968eb40cc64d168da249014b5286da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\15968eb40cc64d168da249014b5286da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5cf16111d3d7cfa10e4bb21edfd10c7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5cf16111d3d7cfa10e4bb21edfd10c7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\c9b83959e0364001c352e35a2ca34fdf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\c9b83959e0364001c352e35a2ca34fdf\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NiRoU\Documents\GitHub\examen-moviles-NR\examen-app\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.5.aar\e8a06cbfbae0a0be0e6e215a60c2bb94\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.3.0.aar\f9b1c223784902b8ed433afda2d52387\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.3.0.aar\21e82cc397361c7d90a9676cd9333174\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\b2f416c68a6bb8cd935a5497850ff6a9\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\96e65e5284e6b19972d077b1021c63c1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\96e65e5284e6b19972d077b1021c63c1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\96e65e5284e6b19972d077b1021c63c1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\96e65e5284e6b19972d077b1021c63c1\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\f21d7ad0bd800fc5e62026469b56d15b\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\f21d7ad0bd800fc5e62026469b56d15b\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\f21d7ad0bd800fc5e62026469b56d15b\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\f21d7ad0bd800fc5e62026469b56d15b\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\f21d7ad0bd800fc5e62026469b56d15b\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\16c6d998f0b63f94ee5281a3d746c2c5\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\16c6d998f0b63f94ee5281a3d746c2c5\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\NiRoU\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\16c6d998f0b63f94ee5281a3d746c2c5\AndroidManifest.xml:24:13-58

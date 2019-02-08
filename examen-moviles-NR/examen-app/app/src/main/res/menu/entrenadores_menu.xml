@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/editar_eentrenador"
+          android:title="Editar"/>
+    <item android:id="@+id/eliminar_entrenador"
+          android:title="Eliminar"/>
+    <item android:id="@+id/compartir_entrenador"
+          android:title="Compartir"/>
+    <item android:id="@+id/listar_pokemones"
+          android:title="Listar Pokemones"/>
+
+</menu>

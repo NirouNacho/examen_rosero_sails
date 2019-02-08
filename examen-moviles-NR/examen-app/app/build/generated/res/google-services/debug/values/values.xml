@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">21914689566-ruols2iknqus9h84p4r6jbea4dtps1se.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://proyecto-de585.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">21914689566</string>
+    <string name="google_api_key" translatable="false">AIzaSyBglCFj-JuvV6DW_bi_d0crDbT3US2THZM</string>
+    <string name="google_app_id" translatable="false">1:21914689566:android:af8cbcb04f33957d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBglCFj-JuvV6DW_bi_d0crDbT3US2THZM</string>
+    <string name="google_storage_bucket" translatable="false">proyecto-de585.appspot.com</string>
+    <string name="project_id" translatable="false">proyecto-de585</string>
+</resources>

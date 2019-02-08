@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "21914689566",
+    "firebase_url": "https://proyecto-de585.firebaseio.com",
+    "project_id": "proyecto-de585",
+    "storage_bucket": "proyecto-de585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21914689566:android:af8cbcb04f33957d",
+        "android_client_info": {
+          "package_name": "com.example.examenapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21914689566-ruols2iknqus9h84p4r6jbea4dtps1se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglCFj-JuvV6DW_bi_d0crDbT3US2THZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
