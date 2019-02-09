@@ -25,6 +25,7 @@ class ListarPokemonActivity : AppCompatActivity() {
         setContentView(R.layout.activity_listar_pokemon)
 
         val entrenadorMostrar = intent.getParcelableExtra<Entrenador?>("entrenador_pasar")
+
         PokemonHTTP().obtenerPorId(entrenadorMostrar!!.id)
 
         if (entrenadorMostrar != null) {

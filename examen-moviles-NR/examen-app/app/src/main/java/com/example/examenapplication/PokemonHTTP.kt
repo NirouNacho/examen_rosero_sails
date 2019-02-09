@@ -10,13 +10,14 @@ class PokemonHTTP(
     var nombrePokemon: String,
     var poderEspecialUno: String,
     var poderEspecialDos: String,
-    var nivel: Int,
     var fechaCaptura: String,
+    var nivel: Int,
+
     var createdAt: Long? = null,
     var updatedAt: Long? = null,
     var id: Int? = null
 ) {
-    constructor(): this (0, "", "", "", 0, "", 0, 0)
+    constructor(): this (0, "", "", "", "", 0)
 
 
     val url = "http://192.168.0.8:1337/Pokemon"
@@ -28,8 +29,8 @@ class PokemonHTTP(
             "nombrePokemon" to nombrePokemon,
             "poderEspecialUno" to poderEspecialUno,
             "poderEspecialDos" to poderEspecialDos,
-            "nivel" to nivel,
             "fechaCaptura" to fechaCaptura,
+            "nivel" to nivel,
             "idEntrenador" to idEntrenador
         )
 
@@ -117,8 +118,8 @@ class PokemonHTTP(
                                     pokemon.nombrePokemon,
                                     pokemon.poderEspecialUno,
                                     pokemon.poderEspecialDos,
-                                    pokemon.nivel,
                                     pokemon.fechaCaptura,
+                                    pokemon.nivel,
                                     pokemon.createdAt,
                                     pokemon.updatedAt,
                                     pokemon.id)

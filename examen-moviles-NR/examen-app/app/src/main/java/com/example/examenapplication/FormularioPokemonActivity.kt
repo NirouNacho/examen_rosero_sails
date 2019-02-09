@@ -101,7 +101,7 @@ class FormularioPokemonActivity : AppCompatActivity() {
         val nivel = editText_nivel_pokemon.text.toString().toInt()
 
 
-        return PokemonHTTP(numeroPokemon, nombrePokemon, poderEspecialUno, poderEspecialDos, nivel, fechaCaptura)
+        return PokemonHTTP(numeroPokemon, nombrePokemon, poderEspecialUno, poderEspecialDos,fechaCaptura ,nivel )
     }
 
     fun mostrarDatos(pokemon: Pokemon) {

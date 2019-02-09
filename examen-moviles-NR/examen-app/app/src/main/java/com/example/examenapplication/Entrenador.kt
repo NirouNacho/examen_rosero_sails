@@ -7,6 +7,7 @@ class Entrenador(var id:Int, var nombres: String, var apellidos: String,
                  var numeroMedallas: Int,
                  var fechaNacimiento: String,
                  var campeonActual: Boolean): Parcelable {
+
     constructor(parcel: Parcel) : this(
         parcel.readInt(),
         parcel.readString(),

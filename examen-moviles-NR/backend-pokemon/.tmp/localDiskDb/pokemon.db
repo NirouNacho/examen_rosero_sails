@@ -1,3 +1,8 @@
-{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
 {"createdAt":1549698722580,"updatedAt":1549698722580,"id":1,"numeroPokemon":123,"nombrePokemon":"Charmander","poderEspecialUno":"5","poderEspecialDos":"Oir","fechaCaptura":"12-12-222","nivel":5,"idEntrenador":null,"_id":1}
 {"numeroPokemon":123,"nombrePokemon":"Charmander","poderEspecialUno":"0","poderEspecialDos":"Fuego","nivel":2,"fechaCaptura":"12-12-1222","createdAt":1549701546899,"updatedAt":1549701546899,"id":2,"idEntrenador":null,"_id":2}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"numeroPokemon":123,"nombrePokemon":"nnn","poderEspecialUno":"nn","poderEspecialDos":"nn","nivel":1,"fechaCaptura":"12-12-1222","createdAt":1549704580020,"updatedAt":1549704580020,"id":3,"idEntrenador":null,"_id":3}
+{"numeroPokemon":123,"nombrePokemon":"n","poderEspecialUno":"a","poderEspecialDos":"a","nivel":2,"fechaCaptura":"1","createdAt":1549705601934,"updatedAt":1549705601934,"id":4,"idEntrenador":null,"_id":4}
+{"numeroPokemon":123,"nombrePokemon":"char","poderEspecialUno":"fuego","poderEspecialDos":"coletazo","nivel":5,"fechaCaptura":"12-12-2012","createdAt":1549707089857,"updatedAt":1549707089857,"id":5,"idEntrenador":null,"_id":5}
+{"numeroPokemon":12,"nombrePokemon":"adsf","poderEspecialUno":"asdf","poderEspecialDos":"asdf","fechaCaptura":"12-12-1111","nivel":5,"createdAt":1549707970364,"updatedAt":1549707970364,"id":6,"idEntrenador":null,"_id":6}
+{"numeroPokemon":21,"nombrePokemon":"12","poderEspecialUno":"12","poderEspecialDos":"12","fechaCaptura":"12","nivel":12,"createdAt":1549708067192,"updatedAt":1549708067192,"id":7,"idEntrenador":null,"_id":7}
