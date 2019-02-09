@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\NiRoU\\Documents\\GitHub\\examen-moviles-NR\\examen-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Users\\NiRoU\\Documents\\GitHub\\examen_rosero_sails\\examen-moviles-NR\\examen-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\NiRoU\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\7ec0a560ecbdc46e8056da4d4a273607\\res\\values-large-v4\\values-large-v4.xml",

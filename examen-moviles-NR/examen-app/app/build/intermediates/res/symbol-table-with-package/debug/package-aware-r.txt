@@ -1134,7 +1134,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
-id button_crear_estudiante
+id button_crear_entrenador
 id button_crear_pokemon
 id button_entrenador_cancelar
 id button_entrenador_guardar

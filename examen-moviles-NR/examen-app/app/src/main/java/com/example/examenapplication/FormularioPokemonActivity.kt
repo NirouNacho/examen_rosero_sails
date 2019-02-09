@@ -108,7 +108,7 @@ class FormularioPokemonActivity : AppCompatActivity() {
         editText_numeroPokemon.setText(pokemon.numeroPokemon.toString())
         editText_nombre_pokemon.setText(pokemon.nombrePokemon)
         editText_fechac_pokemon.setText(pokemon.fechaCreacion)
-        editText_poder_uno.setText(pokemon.poderEspecialUno.toString())
+        editText_poder_uno.setText(pokemon.poderEspecialUno)
         editText_poder_dos.setText(pokemon.poderEspecialDos)
         editText_nivel_pokemon.setText(pokemon.nivel.toString())
 

@@ -78,7 +78,6 @@
     <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:inputType="number"
             android:ems="10"
             android:id="@+id/editText_poder_uno"
             app:layout_constraintEnd_toEndOf="parent"

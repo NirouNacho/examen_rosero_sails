@@ -2,10 +2,7 @@ package com.example.examenapplication
 
 import android.util.Log
 import com.beust.klaxon.Klaxon
-import com.github.kittinunf.fuel.httpDelete
-import com.github.kittinunf.fuel.httpGet
-import com.github.kittinunf.fuel.httpPost
-import com.github.kittinunf.fuel.httpPut
+import com.github.kittinunf.fuel.*
 import com.github.kittinunf.result.Result
 
 class EntrenadorHttp(
@@ -133,7 +130,7 @@ class EntrenadorHttp(
 
         urlParam.httpPut(parametros)
             .responseString { request, response, result ->
-
+    Log.i("http","parametros" + parametros)
                 when (result) {
                     is Result.Failure -> {
                         val exepcion = result.getException()

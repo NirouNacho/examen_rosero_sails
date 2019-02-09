@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-vision-image-label-17.0.2">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/94e448f3efc5e5834c43382f1974afa9/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/94e448f3efc5e5834c43382f1974afa9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/6e1b5eba0c0ab1e91c65e6702deb0c0d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/6e1b5eba0c0ab1e91c65e6702deb0c0d/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

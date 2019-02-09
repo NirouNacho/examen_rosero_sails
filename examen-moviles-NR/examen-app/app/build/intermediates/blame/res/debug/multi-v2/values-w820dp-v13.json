@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\NiRoU\\Documents\\GitHub\\examen-moviles-NR\\examen-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "C:\\Users\\NiRoU\\Documents\\GitHub\\examen_rosero_sails\\examen-moviles-NR\\examen-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\NiRoU\\.gradle\\caches\\transforms-1\\files-1.1\\alerter-2.0.6.aar\\a8d8f5b085325cedebd699d87d37baee\\res\\values-w820dp-v13\\values-w820dp-v13.xml",

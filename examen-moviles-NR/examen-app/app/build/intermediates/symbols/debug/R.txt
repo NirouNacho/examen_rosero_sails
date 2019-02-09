@@ -1133,7 +1133,7 @@ int id beginning 0x7f080024
 int id blocking 0x7f080025
 int id bottom 0x7f080026
 int id buttonPanel 0x7f080027
-int id button_crear_estudiante 0x7f080028
+int id button_crear_entrenador 0x7f080028
 int id button_crear_pokemon 0x7f080029
 int id button_entrenador_cancelar 0x7f08002a
 int id button_entrenador_guardar 0x7f08002b

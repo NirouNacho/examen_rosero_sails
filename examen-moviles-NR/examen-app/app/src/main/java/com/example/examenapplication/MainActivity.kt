@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         EntrenadorHttp().obtenerTodos()
 
-        button_crear_estudiante.setOnClickListener {
+        button_crear_entrenador.setOnClickListener {
             this.irACrearEntrenador()
         }
         button_listar_estudiante.setOnClickListener {

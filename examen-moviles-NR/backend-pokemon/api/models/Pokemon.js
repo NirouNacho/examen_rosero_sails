@@ -22,7 +22,7 @@ module.exports = {
     poderEspecialDos: {
       type: 'string'
     },
-    fechaCreacion: {
+    fechaCaptura: {
       type: 'string',
       columnType: 'date'
     },

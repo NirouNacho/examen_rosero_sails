@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\NiRoU\\Documents\\GitHub\\examen-moviles-NR\\examen-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
+            "outputFile": "C:\\Users\\NiRoU\\Documents\\GitHub\\examen_rosero_sails\\examen-moviles-NR\\examen-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
             "map": [
                 {
                     "source": "C:\\Users\\NiRoU\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\96e65e5284e6b19972d077b1021c63c1\\res\\values-in\\values.xml",

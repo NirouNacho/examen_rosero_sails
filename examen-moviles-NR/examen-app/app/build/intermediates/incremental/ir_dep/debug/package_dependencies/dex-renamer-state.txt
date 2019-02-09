@@ -1,4 +1,4 @@
-#Fri Feb 08 12:26:48 COT 2019
-base.0=C\:\\Users\\NiRoU\\Documents\\GitHub\\examen-moviles-NR\\examen-app\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+#Sat Feb 09 00:10:33 COT 2019
+base.0=C\:\\Users\\NiRoU\\Documents\\GitHub\\examen_rosero_sails\\examen-moviles-NR\\examen-app\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
 path.0=classes.dex
 renamed.0=classes.dex
