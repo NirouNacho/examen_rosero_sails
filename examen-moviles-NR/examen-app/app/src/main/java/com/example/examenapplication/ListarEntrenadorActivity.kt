@@ -197,7 +197,7 @@ class PersonasAdaptador(var listaPersonas: ArrayList<EntrenadorHttp>, private va
 
             popup.setOnMenuItemClickListener { item ->
                 when (item.getItemId()) {
-                    R.id.editar_eentrenador -> {
+                    R.id.editar_entrenador -> {
                         val intentEditar = Intent(contexto, FormularioEntrenadorActivity::class.java)
                         Log.i(
                             "paso",

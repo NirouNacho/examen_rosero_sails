@@ -5355,7 +5355,7 @@ public final class R {
     public static final int editText_poder_dos=0x7f080057;
     public static final int editText_poder_uno=0x7f080058;
     public static final int edit_query=0x7f080059;
-    public static final int editar_eentrenador=0x7f08005a;
+    public static final int editar_entrenador=0x7f08005a;
     public static final int editar_pokemon=0x7f08005b;
     public static final int eliminar_entrenador=0x7f08005c;
     public static final int eliminar_pokemon=0x7f08005d;

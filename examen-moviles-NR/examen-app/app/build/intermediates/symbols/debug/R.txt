@@ -1183,7 +1183,7 @@ int id editText_numeroPokemon 0x7f080056
 int id editText_poder_dos 0x7f080057
 int id editText_poder_uno 0x7f080058
 int id edit_query 0x7f080059
-int id editar_eentrenador 0x7f08005a
+int id editar_entrenador 0x7f08005a
 int id editar_pokemon 0x7f08005b
 int id eliminar_entrenador 0x7f08005c
 int id eliminar_pokemon 0x7f08005d

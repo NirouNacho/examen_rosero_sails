@@ -34,7 +34,7 @@ class FormularioPokemonActivity : AppCompatActivity() {
         setContentView(R.layout.activity_formulario_pokemon)
         val pokemonActualizar = intent.getParcelableExtra<Pokemon?>("pokemon_pasar")
 
-        val entrenador = intent.getParcelableExtra<Entrenador?>("pokemon")
+        val entrenador = intent.getParcelableExtra<Entrenador?>("entrenador")
 
 
         if (pokemonActualizar != null) {

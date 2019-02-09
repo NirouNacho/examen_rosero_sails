@@ -1184,7 +1184,7 @@ id editText_numeroPokemon
 id editText_poder_dos
 id editText_poder_uno
 id edit_query
-id editar_eentrenador
+id editar_entrenador
 id editar_pokemon
 id eliminar_entrenador
 id eliminar_pokemon

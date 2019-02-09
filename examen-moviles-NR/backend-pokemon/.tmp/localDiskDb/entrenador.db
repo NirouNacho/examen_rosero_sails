@@ -4,3 +4,5 @@
 {"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
 {"$$deleted":true,"_id":4}
 {"nombres":"Nicolas","apellidos":"Rosero","fechaNacimiento":"05-10-1993","numeroMedallas":5,"campeonActual":true,"createdAt":1549704133563,"updatedAt":1549704511335,"id":4,"_id":4}
+{"$$deleted":true,"_id":2}
+{"createdAt":1549650897625,"updatedAt":1549710732273,"id":2,"nombres":"Ash44","apellidos":"Ketcgum","fechaNacimiento":"12-12-2012","numeroMedallas":6,"campeonActual":false,"_id":2}

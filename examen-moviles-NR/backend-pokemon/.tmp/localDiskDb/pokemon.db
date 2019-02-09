@@ -6,3 +6,7 @@
 {"numeroPokemon":123,"nombrePokemon":"char","poderEspecialUno":"fuego","poderEspecialDos":"coletazo","nivel":5,"fechaCaptura":"12-12-2012","createdAt":1549707089857,"updatedAt":1549707089857,"id":5,"idEntrenador":null,"_id":5}
 {"numeroPokemon":12,"nombrePokemon":"adsf","poderEspecialUno":"asdf","poderEspecialDos":"asdf","fechaCaptura":"12-12-1111","nivel":5,"createdAt":1549707970364,"updatedAt":1549707970364,"id":6,"idEntrenador":null,"_id":6}
 {"numeroPokemon":21,"nombrePokemon":"12","poderEspecialUno":"12","poderEspecialDos":"12","fechaCaptura":"12","nivel":12,"createdAt":1549708067192,"updatedAt":1549708067192,"id":7,"idEntrenador":null,"_id":7}
+{"numeroPokemon":0,"nombrePokemon":"1","poderEspecialUno":"01","poderEspecialDos":"01","fechaCaptura":"10","nivel":10,"createdAt":1549710974033,"updatedAt":1549710974033,"id":8,"idEntrenador":null,"_id":8}
+{"numeroPokemon":1,"nombrePokemon":"1","poderEspecialUno":"1","poderEspecialDos":"1","fechaCaptura":"1","nivel":1,"createdAt":1549711573114,"updatedAt":1549711573114,"id":9,"idEntrenador":null,"_id":9}
+{"numeroPokemon":1,"nombrePokemon":"1","poderEspecialUno":"1","poderEspecialDos":"1","fechaCaptura":"1","nivel":1,"createdAt":1549713868893,"updatedAt":1549713868893,"id":10,"idEntrenador":null,"_id":10}
+{"numeroPokemon":1523,"nombrePokemon":"char,ander","poderEspecialUno":"coletazo","poderEspecialDos":"cabezaso","fechaCaptura":"12-12-2018","nivel":8,"idEntrenador":2,"createdAt":1549714477797,"updatedAt":1549714477797,"id":11,"_id":11}
